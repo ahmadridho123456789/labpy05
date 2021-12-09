@@ -90,3 +90,5 @@
  
 ![gambar](image/ss5.png)
 
+## dan berikut flowchart nya
+![gambar](image/ss6.png)
